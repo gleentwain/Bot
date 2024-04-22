@@ -5,7 +5,6 @@ import unicodedata
 from pdf2image import convert_from_path
 import logging
 import random
-
 from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove , InlineKeyboardButton ,InlineKeyboardMarkup
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from aiogram.enums import ParseMode
