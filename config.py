@@ -1,1 +1,0 @@
-BOT_API = "6937897530:AAHSa_Y6ADcpovpoYxi5rvxwc4SH1cEtT3c"
