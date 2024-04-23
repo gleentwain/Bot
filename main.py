@@ -34,6 +34,7 @@ Menu = """
 Menulst = ["/start", "/help", "/fuck_you", "/compliment", "/photo", "/life" ]
 Guesslst = {}  
 
+
 @dp.message(Command("links"))
 async def cmd(message: Message):
     Startbtn = InlineKeyboardButton(text="GitHub", url="https://github.com")
